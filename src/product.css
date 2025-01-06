@@ -1,0 +1,15 @@
+.a1{
+    font-size: 30px;
+    border: 2px solid black;
+    width:120px;
+    height: 120px;
+    margin: 10px;
+    border-color: black;
+    background-color: antiquewhite;
+}
+.allproducts{
+    border-color: black;
+    display: flex;
+    justify-content: center;
+    
+}
